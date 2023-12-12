@@ -1,0 +1,5 @@
+Selenium Web Driver - is a collection of open course APIs which are used to automate the testing of a web application.
+Selenium Web Driver tool is used to automate web application testing to verify that it works as expected. 
+It support many browsers such as FireFox, Chrome, IE, and Safari
+Web Driver is an API. It is written more than one language which and they are called language bindings. 
+The API has functions to controll a browser. You use the functions in writing a script that controls the browser in the way you want.
